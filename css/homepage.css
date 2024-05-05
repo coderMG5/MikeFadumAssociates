@@ -1,0 +1,77 @@
+a:link{
+    color: black;
+    text-decoration: none;
+}
+a:visited{
+    color: black;
+}
+a:hover{
+    color: black;
+    text-decoration: none;
+}
+a:active{
+    color: black;
+
+}
+
+#div-header{
+    background-color: darkslategray;
+    color: white;
+}
+
+#div-nav{
+    background-color: whitesmoke;
+    margin: 10px;
+    
+}
+
+#div-nav div:hover{
+    background-color: green;
+    color: white;
+}
+
+
+table.logo{
+    background-color: black;
+}
+
+td.desc{
+    padding-right: 500px;
+}
+
+td.button{
+    padding-right: 10px;
+}
+
+div.logo{
+    background-color: black;
+    padding: 5px;
+
+}
+
+p.logo{
+    
+    font-family: rubik;
+    vertical-align: middle;
+    font-size: x-large;
+   
+}
+
+a.logo{
+   
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+
+p{
+    overflow: visible;
+}
+
+footer {
+    background-color: whitesmoke;
+    opacity: 0.8; 
+    padding: 20px;
+    color: darkgreen;
+    text-align: center;
+}

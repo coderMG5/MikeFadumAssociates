@@ -1,0 +1,46 @@
+
+li {
+    display: inline;
+    font-size: 40px;
+    padding: 4px;
+    color: white;
+    vertical-align: middle;
+}
+
+a:link{
+    color: white;
+    text-decoration: none;
+}
+a:visited{
+    color: white;
+
+}
+a:hover{
+    color: darkgoldenrod;
+    text-decoration: underline;
+}
+a:active{
+    color: darkcyan;
+}
+
+header {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 1px;
+    margin: 2px;
+}
+
+nav {
+    background-color: black;
+    opacity: 0.8;
+   
+}
+
+footer {
+    background-color: cornsilk;
+    opacity: 0.8; 
+    padding: 20px;
+    color: black;
+    text-align: center;
+}
